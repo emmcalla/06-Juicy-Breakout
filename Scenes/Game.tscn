@@ -33,6 +33,8 @@ margin_bottom = 16.0
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Paddle"]
 shape = SubResource( 1 )
 
+[node name="Tween" type="Tween" parent="Paddle"]
+
 [node name="Wall" type="StaticBody2D" parent="."]
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Wall"]

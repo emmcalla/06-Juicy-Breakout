@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Fireworks Finale-SoundBible.com-370363529.wav-5e7baf56a200f9c002b0dbd1aad14aa2.sample"
+
+[deps]
+
+source_file="res://Assets/Fireworks Finale-SoundBible.com-370363529.wav"
+dest_files=[ "res://.import/Fireworks Finale-SoundBible.com-370363529.wav-5e7baf56a200f9c002b0dbd1aad14aa2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
