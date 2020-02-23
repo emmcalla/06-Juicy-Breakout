@@ -39,3 +39,21 @@ The grading criteria will be as follows:
  - [1] No (script) syntax errors
  - [1] No other runtime errors
  - [16] Features to make the game more "juicy"
+ 
+ Effects Added:
+ - Screenshake
+ - Background
+ - Applause Sound Effect
+ - "Blip" Sound Effect
+ - "Boing" Sound effect
+ - Background Music
+ - Comet Trail behind ball
+ - Blocks bounce as they enter the screen
+ - Blocks swirl and fade out once hit
+ - Particle added to blocks as they are hit
+ - Ball rotates
+ - Added eyes and mouth to paddle
+ - Eyes follow ball
+ - Mouth reacts the further away the balls is
+ - Changed color of blocks
+ - Changed color of paddle
